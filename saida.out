@@ -1,0 +1,15 @@
+VCD info: dumpfile saida.vcd opened for output.
+OK - Estado: IDLE
+OK - Estado: LIGAR_MAQUINA
+OK - Estado: VERIFICAR_AGUA
+Sem água!
+OK - Estado: ENCHER_RESERVATORIO
+OK - Estado: VERIFICAR_AGUA
+Água disponível.
+OK - Estado: MOER_CAFE
+OK - Estado: COLOCAR_NO_FILTRO
+OK - Estado: PASSAR_AGITADOR
+OK - Estado: TAMPEAR
+OK - Estado: REALIZAR_EXTRACAO
+OK - Estado: IDLE. Processo concluído.
+tb.v:129: $finish called at 106000 (1ps)
